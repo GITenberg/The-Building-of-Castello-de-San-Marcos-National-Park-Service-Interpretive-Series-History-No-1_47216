@@ -1,10 +1,16 @@
 _repo: The-Building-of-Castello-de-San-Marcos-National-Park-Service-Interpretive-Series-History-No-1_47216
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47216-h/images/cover.jpg
 creator:
   author:
     agent_name: Manucy, Albert C.
     gutenberg_agent_id: '9327'
     url: http://www.gutenberg.org/2009/agents/9327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47216#The-Building-of-Castello-de-San-Marcos-National-Park-Service-Interpretive-Series-History-No-1
 gutenberg_issued: '2014-10-28'
 gutenberg_type: Text
 identifiers:
